@@ -62,14 +62,26 @@ main {
     justify-content: space-between;
 }
 
+.container{
+    display: flex;
+}
+
+.container2{
+    width: 80%;
+}
+
+.container3{
+    display: flex;
+}
+
 .ads {
-    width: 20%;
+    width: 25%;
     background-color: #f2f2f2;
     padding: 10px;
 }
 
 .content {
-    width: 60%;
+    width: 75%;
     padding: 10px;
     background-color: #e9e9e9;
 }
